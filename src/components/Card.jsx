@@ -1,6 +1,8 @@
-const Card = () => {
+const Card = (props) => {
   return (
-    <div>hola, soy una tarjeta</div>
+    <>
+    {props.children}
+    </>
   )
 }
 

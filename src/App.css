@@ -4,6 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+p{
+  color: red;
+}
 
 .logo {
   height: 6em;
